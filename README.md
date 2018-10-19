@@ -1,10 +1,8 @@
-# Feed-Reader-Testing-FEND
-
-# Project Overview
-In this project doneas part of my Udacity nanodegree course, we had to use Jasmine to test if the Javascript is working properly.
+# Feed-Reader-Testing-FEND Project Overview
+In this project done as part of my Udacity nanodegree course, we had to use Jasmine to test if the Javascript is working properly.
 
 # How to Run Appilcation
-Download repositrory from [here] (https://github.com/TanyaGir/Feed-Reader-Testing-FEND.git). Then open the index.html file in a browser.
+Download repositrory from here (https://github.com/TanyaGir/Feed-Reader-Testing-FEND.git). Then open the index.html file in a browser.
 
 # Tests That Were Implemented
 * Tests for allfeeds has been defined and that it is not empty
