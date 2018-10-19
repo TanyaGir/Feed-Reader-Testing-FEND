@@ -1,4 +1,4 @@
-# Feed-Reader-Testing-FEND Project Overview
+# Feed-Reader-Testing Project Overview
 In this project done as part of my Udacity nanodegree course, we had to use Jasmine to test if the Javascript is working properly.
 
 # How to Run Appilcation
